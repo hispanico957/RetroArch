@@ -8467,11 +8467,11 @@ MSG_HASH(
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_SAVESTATE_LIST,
-   "Salva Stati"
+   "Salva/Carica Stati"
    )
 MSG_HASH(
    MENU_ENUM_SUBLABEL_SAVESTATE_LIST,
-   "Accedi alle opzioni di salvataggio stato."
+   "Accedi alle opzioni di salvataggio/caricamento stato."
    )
 MSG_HASH(
    MENU_ENUM_LABEL_VALUE_CORE_OPTIONS,
